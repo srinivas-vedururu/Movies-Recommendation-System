@@ -3,7 +3,8 @@
 This project is a movie recommendation system built with Streamlit and powered by a machine learning model. It recommends movies based on a selected title using cosine similarity and displays movie posters fetched from the TMDB API.
 
 >Dataset is [HERE](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
-
+# My Streamlit App
+Check out my deployed app: [Movies Recommendation System](https://srinivas-vedururu-movies-recommendation-system-app-gel55n.streamlit.app/)
 
 ## Table of Contents
 
