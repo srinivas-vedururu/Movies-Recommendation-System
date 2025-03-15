@@ -18,7 +18,7 @@ def download_file():
 
 download_file()
 
-# Load the pickle file correctly
+# Loading the pickle file
 with open(file_name, "rb") as file:
     movies, cosine_sim = pickle.load(file)
 
